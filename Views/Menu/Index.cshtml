@@ -1,0 +1,123 @@
+﻿@using MyCore.Models.Entity
+@model IEnumerable<Product>
+
+<div class="page-content bg-white">
+	<!-- Banner  -->
+	<div class="dz-bnr-inr style-1 text-center bg-parallax" style="background-image:url('/images/banner/bnr2.jpg'); background-size:cover; background-position:center;">
+		<div class="container">
+			<div class="dz-bnr-inr-entry">
+				<h1>Menu Restaurant</h1>
+				<!-- Breadcrumb Row -->
+				<nav aria-label="breadcrumb" class="breadcrumb-row">
+					<ul class="breadcrumb">
+						<li class="breadcrumb-item"><a asp-controller="Home">Home</a></li>
+						<li class="breadcrumb-item active" aria-current="page">Menu Restaurant</li>
+					</ul>
+				</nav>
+				<!-- Breadcrumb Row End -->
+			</div>
+		</div>
+	</div>
+	<!-- Banner End -->
+	<!-- Search Section -->
+	<form asp-controller="Menu" asp-action="Search" method="post">
+		<section class="content-inner-1">
+			<div class="container">
+				<div class="row search-wraper text-center">
+					<div class="col-lg-8 m-auto">
+
+						<div class="input-group">
+							<input required="required" type="text" class="form-control" placeholder="Search" name="searchTerm">
+							<div class="input-group-addon">
+								<button name="submit" value="submit" type="submit" class="btn btn-primary btn-hover-2">
+									<span>Search</span><i class="icon-search"></i>
+								</button>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-3">
+						<aside class="side-bar left sticky-top">
+							<div class="shop-filter">
+								<div class="widget widget_tag_cloud ">
+									<div class="d-flex justify-content-between">
+										<div class="widget-title">
+											<h4 class="title">Current Search</h4>
+										</div>
+										<a href="javascript:void(0);" class="panel-close-btn"><i class="fa-solid fa-xmark"></i></a>
+									</div>
+									<div class="tagcloud">
+										<a href="@Url.Action("ProductDetail")">Burger</a>
+										<a href="@Url.Action("ProductDetail")">Restaurant</a>
+										<a href="@Url.Action("ProductDetail")">Pizza</a>
+									</div>
+								</div>
+								<div class="widget dz-widget_services">
+									<div class="widget-title">
+										<h4 class="title">Refine By Categories</h4>
+									</div>
+									@foreach (var item in ViewBag.ProductType)
+									{
+										<div class="form-check">
+											<input class="form-check-input" type="checkbox" name="categories" value="@item.Name" id="productCheckBox-@item.ID">
+											<label class="form-check-label" for="productCheckBox-@item.ID">
+												@item.Name
+											</label>
+										</div>
+									}
+
+								</div>
+								<div class="widget">
+									<div class="widget-title">
+										<h4 class="title">Price Range</h4>
+									</div>
+									<div class="range-slider style-1">
+										<div id="slider-tooltips"></div>
+									</div>
+								</div>
+							</div>
+						</aside>
+					</div>
+					<div class="col-lg-9">
+						<div class="d-flex justify-content-between align-items-center">
+							<h5 class="title mb-md-3 mb-lg-4 m-b20 d-none d-lg-block">Search Results</h5>
+							<strong class="filter-item-show m-b20">Search: 51,740 items</strong>
+							<a href="javascript:void(0);" class="btn btn-primary panel-btn">Filter</a>
+						</div>
+
+						<ul id="masonry" class="row">
+							@foreach (var item in Model)
+							{
+								<li class="card-container col-xl-4 col-md-6 m-b30">
+									<div class="dz-img-box style-7">
+										<div class="dz-media">
+											<img src="@item.Img" alt="/">
+											<div class="dz-meta">
+												<ul>
+													<li class="seller">Top Seller</li>
+													<li class="rating"><i class="fa-solid fa-star"></i> 4.5</li>
+												</ul>
+											</div>
+										</div>
+										<div class="dz-content">
+											<h5 class="title"><a asp-controller="ProductDetail">@item.Name</a></h5>
+											<p>@item.Content</p>
+											<span class="price">$@item.Price</span>
+										</div>
+									</div>
+								</li>
+							}
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+	</form>
+	<!-- Search Section -->
+
+</div>
+
+
+

@@ -1,0 +1,1329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Restaurent.ody1tm18q2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\feather\\css\\iconfont.css",
+      "PackagePath": "staticwebassets\\icons\\feather\\css\\iconfont.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\feather\\fonts\\feathere8ab.eot",
+      "PackagePath": "staticwebassets\\icons\\feather\\fonts\\feathere8ab.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\feather\\fonts\\feathere8ab.svg",
+      "PackagePath": "staticwebassets\\icons\\feather\\fonts\\feathere8ab.svg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\feather\\fonts\\feathere8ab.ttf",
+      "PackagePath": "staticwebassets\\icons\\feather\\fonts\\feathere8ab.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\feather\\fonts\\feathere8ab.woff",
+      "PackagePath": "staticwebassets\\icons\\feather\\fonts\\feathere8ab.woff"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\flaticon\\flaticon_swigo.css",
+      "PackagePath": "staticwebassets\\icons\\flaticon\\flaticon_swigo.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\flaticon\\flaticon_swigo1845.eot",
+      "PackagePath": "staticwebassets\\icons\\flaticon\\flaticon_swigo1845.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\flaticon\\flaticon_swigo1845.svg",
+      "PackagePath": "staticwebassets\\icons\\flaticon\\flaticon_swigo1845.svg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\flaticon\\flaticon_swigo1845.ttf",
+      "PackagePath": "staticwebassets\\icons\\flaticon\\flaticon_swigo1845.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\flaticon\\flaticon_swigo1845.woff",
+      "PackagePath": "staticwebassets\\icons\\flaticon\\flaticon_swigo1845.woff"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\flaticon\\flaticon_swigo1845.woff2",
+      "PackagePath": "staticwebassets\\icons\\flaticon\\flaticon_swigo1845.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\icons\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\css\\line-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\line-awesome\\fonts\\la-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\fonts\\la-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\themify\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\icons\\themify\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\themify\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\icons\\themify\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\themify\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\icons\\themify\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\themify\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\icons\\themify\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\themify\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\icons\\themify\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\icons\\themify\\themify-icons.css",
+      "PackagePath": "staticwebassets\\icons\\themify\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\adv-media.jpg",
+      "PackagePath": "staticwebassets\\images\\adv-media.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\adv\\label.png",
+      "PackagePath": "staticwebassets\\images\\adv\\label.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\adv\\pic1.png",
+      "PackagePath": "staticwebassets\\images\\adv\\pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\adv\\pic2.png",
+      "PackagePath": "staticwebassets\\images\\adv\\pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\adv\\pic3.png",
+      "PackagePath": "staticwebassets\\images\\adv\\pic3.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\adv\\pic4.png",
+      "PackagePath": "staticwebassets\\images\\adv\\pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\bg-pattern1.html",
+      "PackagePath": "staticwebassets\\images\\background\\bg-pattern1.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\bg-pattern2.html",
+      "PackagePath": "staticwebassets\\images\\background\\bg-pattern2.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic10.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic10.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic11.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\pic11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic12.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic12.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic13.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic13.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic14.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic14.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic15.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic15.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic16.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic16.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic17.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic17.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic18.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic18.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic19.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic19.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic20.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic20.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic21.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic21.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic5.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic5.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\background\\pic6.png",
+      "PackagePath": "staticwebassets\\images\\background\\pic6.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\banner\\bnr-3-s2.html",
+      "PackagePath": "staticwebassets\\images\\banner\\bnr-3-s2.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\banner\\bnr1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\bnr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\banner\\bnr2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\bnr2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\banner\\bnr3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\bnr3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\banner\\bnr4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\bnr4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\banner\\bnr5.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\bnr5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\author.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\detail\\signing.png",
+      "PackagePath": "staticwebassets\\images\\blog\\detail\\signing.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid3\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid3\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\grid\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\grid\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\large\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\large\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\recent-blog\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\recent-blog\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\recent-blog\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\recent-blog\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\blog\\recent-blog\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\recent-blog\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\faq\\pic1.png",
+      "PackagePath": "staticwebassets\\images\\faq\\pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid4\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid4\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid4\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid4\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid4\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid4\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid4\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid4\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid4\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid4\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid4\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid4\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\grid5\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\grid5\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\gallery\\small\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\small\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\like.png",
+      "PackagePath": "staticwebassets\\images\\like.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\main-slider\\slider3\\bg.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\slider3\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\main-slider\\slider3\\burger.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\slider3\\burger.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\main-slider\\slider3\\crown.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\slider3\\crown.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\main-slider\\slider3\\offer.png",
+      "PackagePath": "staticwebassets\\images\\main-slider\\slider3\\offer.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic1.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic10.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic10.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic11.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic11.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic12.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic12.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic13.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic13.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic14.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic14.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic15.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic15.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic2.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic3.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic3.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic4.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic5.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic5.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic6.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic6.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic7.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic7.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic8.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic8.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\menu-small\\pic9.png",
+      "PackagePath": "staticwebassets\\images\\menu-small\\pic9.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\modal\\mini\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\modal\\mini\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\modal\\mini\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\modal\\mini\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\modal\\mini\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\modal\\mini\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\modal\\mini\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\modal\\mini\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\modal\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\modal\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\pan1.html",
+      "PackagePath": "staticwebassets\\images\\pan1.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\pan2.html",
+      "PackagePath": "staticwebassets\\images\\pan2.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\shop\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\shop\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\shop\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\shop\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\background\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\background\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\background\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\background\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\background\\bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\background\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\background\\bg4.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\background\\bg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\background\\bg5.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\background\\bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\background\\bg6.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\background\\bg6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\background\\bg7.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\background\\bg7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\pattern\\pt1.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\pattern\\pt1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\pattern\\pt2.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\pattern\\pt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\pattern\\pt3.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\pattern\\pt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\pattern\\pt4.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\pattern\\pt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\pattern\\pt5.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\pattern\\pt5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\pattern\\pt6.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\pattern\\pt6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\switcher\\small\\pattern\\pt7.jpg",
+      "PackagePath": "staticwebassets\\images\\switcher\\small\\pattern\\pt7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\detail\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\detail\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic11.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic12.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\team\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\large\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\large\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\large\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\large\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\large\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\large\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\mini\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\mini\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\mini\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\mini\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\mini\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\mini\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\small\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\small\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\small\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\small\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\small\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\small\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\small\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\small\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\images\\testimonial\\small\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\small\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\dz.ajax.js",
+      "PackagePath": "staticwebassets\\js\\dz.ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\dz.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\dz.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\dznav-init.js",
+      "PackagePath": "staticwebassets\\js\\dznav-init.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\jquery.star-rating-svg.js",
+      "PackagePath": "staticwebassets\\js\\jquery.star-rating-svg.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\json\\coming-soon.json",
+      "PackagePath": "staticwebassets\\json\\coming-soon.json"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\bootstrap-select\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-select\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\bootstrap-select\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-select\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\bootstrap-touchspin\\bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-touchspin\\bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\counter\\counterup.min.js",
+      "PackagePath": "staticwebassets\\vendor\\counter\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\counter\\waypoints-min.js",
+      "PackagePath": "staticwebassets\\vendor\\counter\\waypoints-min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\imagesloaded\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\css\\lg-thumbnail.css",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\css\\lg-thumbnail.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\css\\lg-zoom.css",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\css\\lg-zoom.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\css\\lightgallery.css",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\css\\lightgallery.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\fonts\\lgb687.svg",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\fonts\\lgb687.svg"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\fonts\\lgb687.ttf",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\fonts\\lgb687.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\fonts\\lgb687.woff",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\fonts\\lgb687.woff"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\fonts\\lgb687.woff2",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\fonts\\lgb687.woff2"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\lightgallery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\lightgallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\plugins\\thumbnail\\lg-thumbnail.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\plugins\\thumbnail\\lg-thumbnail.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\lightgallery\\dist\\plugins\\zoom\\lg-zoom.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightgallery\\dist\\plugins\\zoom\\lg-zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\magnific-popup\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\vendor\\magnific-popup\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\magnific-popup\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\vendor\\magnific-popup\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\masonry\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\masonry\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\masonry\\masonry-4.2.2.js",
+      "PackagePath": "staticwebassets\\vendor\\masonry\\masonry-4.2.2.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\particles\\particles-app.js",
+      "PackagePath": "staticwebassets\\vendor\\particles\\particles-app.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\particles\\particles.js",
+      "PackagePath": "staticwebassets\\vendor\\particles\\particles.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\images\\ui-bg_glass_55_fbf9ee_1x400.html",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\images\\ui-bg_glass_55_fbf9ee_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\images\\ui-bg_glass_95_fef1ec_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\images\\ui-icons_222222_256x240.html",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\images\\ui-icons_222222_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\images\\ui-icons_2e83ff_256x240.html",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\images\\ui-icons_2e83ff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\images\\ui-icons_454545_256x240.html",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\images\\ui-icons_454545_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\images\\ui-icons_888888_256x240.html",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\images\\ui-icons_888888_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\images\\ui-icons_cd0a0a_256x240.html",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\images\\ui-icons_cd0a0a_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\rangeslider.css",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\rangeslider.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\rangeslider\\rangeslider.js",
+      "PackagePath": "staticwebassets\\vendor\\rangeslider\\rangeslider.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\switcher\\demo.png",
+      "PackagePath": "staticwebassets\\vendor\\switcher\\demo.png"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\switcher\\switcher.css",
+      "PackagePath": "staticwebassets\\vendor\\switcher\\switcher.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\switcher\\switcher.js",
+      "PackagePath": "staticwebassets\\vendor\\switcher\\switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\tempus-dominus\\css\\tempus-dominus.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tempus-dominus\\css\\tempus-dominus.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\tempus-dominus\\js\\tempus-dominus.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tempus-dominus\\js\\tempus-dominus.min.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\wnumb\\wNumb.js",
+      "PackagePath": "staticwebassets\\vendor\\wnumb\\wNumb.js"
+    },
+    {
+      "Id": "C:\\Users\\buiva\\source\\repos\\Restaurent\\Restaurent\\wwwroot\\vendor\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\vendor\\wow\\wow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurent.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Restaurent.props",
+      "PackagePath": "build\\Restaurent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurent.props",
+      "PackagePath": "buildMultiTargeting\\Restaurent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restaurent.props",
+      "PackagePath": "buildTransitive\\Restaurent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
