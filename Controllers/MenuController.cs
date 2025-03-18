@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using MyCore.Models;
 using MyCore.Models.Entity;
+using System.Linq;
 
 namespace Restaurent.Controllers
 {
@@ -20,10 +21,10 @@ namespace Restaurent.Controllers
             return View(products);
         }
 
-        public async Task<IActionResult> Search(string searchTerm, List<string> categories)
+        public async Task<IActionResult> Search(string searchTerm, List<long> categories)
         {
             var products = _context.Product
-                .Include(p => p.ProductType) 
+                .Include(p => p.Id) 
                 .AsQueryable();
 
             
@@ -35,16 +36,16 @@ namespace Restaurent.Controllers
             
             if (categories != null && categories.Any())
             {
-                products = products.Where(p => categories.Contains(p.ProductType.Name));
+                products = products.Where(p => p.ProductTypeId.Contains(categories));
             }
 
             var result = await products.ToListAsync();
 
             ViewBag.Keyword = searchTerm;
             ViewBag.ProductType = _context.ProductType.ToList();
-            ViewBag.SelectedCategories = categories ?? new List<string>();
+            ViewBag.SelectedCategories = categories ?? new List<long>();
 
-            return View(result);
+            return View(products);
         }
     }
 }

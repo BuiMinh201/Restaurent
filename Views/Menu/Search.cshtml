@@ -61,7 +61,7 @@
 									@foreach (var item in ViewBag.ProductType)
 									{
 										<div class="form-check">
-											<input class="form-check-input" type="checkbox" name="categories" value="@item.Name" id="productCheckBox-@item.ID">
+											<input class="form-check-input" type="checkbox" name="categories" value="@item.ID" id="productCheckBox-@item.ID">
 											<label class="form-check-label" for="productCheckBox-@item.ID">
 												@item.Name
 											</label>

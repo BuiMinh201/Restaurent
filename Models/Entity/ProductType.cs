@@ -12,5 +12,4 @@ public partial class ProductType
     public short? Status { get; set; }
 
     public DateTime? CreateDate { get; set; }
-    public virtual ICollection<Product> Products { get; set; } = new List<Product>();
 }
