@@ -21,30 +21,37 @@ namespace Restaurent.Controllers
             return View(products);
         }
 
-        public async Task<IActionResult> Search(string searchTerm, List<long> categories)
+        public async Task<IActionResult> Search(string searchTerm, List<long?> categories,decimal? minPrice,decimal? maxPrice)
         {
-            var products = _context.Product
-                .Include(p => p.Id) 
-                .AsQueryable();
+            var products = _context.Product.AsQueryable();
 
-            
             if (!string.IsNullOrEmpty(searchTerm))
             {
                 products = products.Where(p => p.Name.Contains(searchTerm) || p.Content.Contains(searchTerm));
             }
 
-            
             if (categories != null && categories.Any())
             {
-                products = products.Where(p => p.ProductTypeId.Contains(categories));
+                products = products.Where(p => categories.Contains(p.ProductTypeId));
             }
 
+            if (minPrice.HasValue)
+            {
+                products = products.Where(p => p.Price >= minPrice.Value);
+            }
+
+            if (maxPrice.HasValue)
+            {
+                products = products.Where(p => p.Price <= maxPrice.Value);
+            }
             var result = await products.ToListAsync();
 
+            
             ViewBag.Keyword = searchTerm;
             ViewBag.ProductType = _context.ProductType.ToList();
-            ViewBag.SelectedCategories = categories ?? new List<long>();
-
+            ViewBag.SelectedCategories = categories ?? new List<long?>();
+            ViewBag.MinPrice = minPrice;
+            ViewBag.MaxPrice = maxPrice;
             return View(products);
         }
     }
