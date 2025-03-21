@@ -72,19 +72,6 @@
 									<div class="widget-title">
 										<h4 class="title">Price Range</h4>
 									</div>
-									<input type="hidden" name="keyword" value="@ViewBag.Keyword">
-										<div class="range-slider style-1">
-											<div id="slider-tooltips"></div>
-										<input type="hidden" id="minPrice" name="minPrice" value="@ViewBag.MinPrice">
-										<input type="hidden" id="maxPrice" name="maxPrice" value="@ViewBag.MaxPrice">
-											<div class="price-display mt-2">
-												<span>Price: </span>
-												<span id="price-range">
-												@(ViewBag.MinPrice?.ToString("N2") ?? "0") - @(ViewBag.MaxPrice?.ToString("N2") ?? "1000")
-												</span>
-											</div>
-										</div>
-										<button type="submit" class="btn btn-primary btn-hover-2 mt-3">Filter</button>
 								</div>
 							</div>
 						</aside>
