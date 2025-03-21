@@ -10,10 +10,11 @@ namespace Restaurent.Controllers
         {
             _context = restaurentContext;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Detail(long Id)
         {
-            var products = _context.Product.ToList();
-            return View(products);
+            if (Id == null) return RedirectToAction("Index");
+            var productsById = _context.Product.Where(p => p.Id == Id).FirstOrDefault();
+            return View(productsById);
         }
     }
 }

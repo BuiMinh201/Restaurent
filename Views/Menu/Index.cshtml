@@ -98,7 +98,7 @@
 											</div>
 										</div>
 										<div class="dz-content">
-											<h5 class="title"><a asp-controller="ProductDetail">@item.Name</a></h5>
+											<h5 class="title"><a asp-controller="ProductDetail" asp-action="Detail" asp-route-Id="@item.Id">@item.Name</a></h5>
 											<p>@item.Content</p>
 											<span class="price">$@item.Price</span>
 										</div>
