@@ -47,65 +47,31 @@
 							<li>
 								Quantity
 								<div class="btn-quantity style-1 m-t5">
-									<input id="demo_vertical2" type="text" value="@Model.Quantity" name="demo_vertical2">
+									<input id="demo_vertical2" type="text" value="1" name="demo_vertical2">
 								</div>
 							</li>
 						</ul>
 						<h6 class="title">Add On</h6>
-						<ul class="add-product">
-							<li>
-								<div class="mini-modal">
-									<div class="dz-media">
-										<img src="~/images/modal/mini/pic1.jpg" alt="/">
-									</div>
-									<div class="dz-content">
-										<p class="title">French Frise</p>
-										<div class="form-check search-content">
-											<input class="form-check-input" type="checkbox" value="">
+
+                        <ul class="add-product">
+                            @foreach (var item in ViewBag.ProductTopping)
+                            {
+								<li>
+									<div class="mini-modal">
+										<div class="dz-media">
+											<img src="@item.Img" alt="/">
+										</div>
+										<div class="dz-content">
+											<p class="title">@item.Name</p>
+											<div class="form-check search-content">
+												<input class="form-check-input" type="checkbox" value="">
+											</div>
 										</div>
 									</div>
-								</div>
-							</li>
-							<li>
-								<div class="mini-modal">
-									<div class="dz-media">
-										<img src="~/images/modal/mini/pic2.jpg" alt="/">
-									</div>
-									<div class="dz-content">
-										<p class="title">Extra Cheese</p>
-										<div class="form-check search-content">
-											<input class="form-check-input" type="checkbox" value="">
-										</div>
-									</div>
-								</div>
-							</li>
-							<li>
-								<div class="mini-modal">
-									<div class="dz-media">
-										<img src="~/images/modal/mini/pic3.jpg" alt="/">
-									</div>
-									<div class="dz-content">
-										<p class="title">Coca Cola</p>
-										<div class="form-check search-content">
-											<input class="form-check-input" type="checkbox" value="">
-										</div>
-									</div>
-								</div>
-							</li>
-							<li>
-								<div class="mini-modal">
-									<div class="dz-media">
-										<img src="~/images/modal/mini/pic4.jpg" alt="/">
-									</div>
-									<div class="dz-content">
-										<p class="title">Choco Lava</p>
-										<div class="form-check search-content">
-											<input class="form-check-input" type="checkbox" value="">
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
+                                </li>
+                            }
+							</ul>
+					
 						<div class="d-lg-flex justify-content-between">
 							<ul class="modal-btn-group">
 								<li><a href="ShopCart.html" class="btn btn-primary btn-hover-1"><span>Add To Cart <i class="flaticon-shopping-bag-1 m-l10"></i></span></a></li>

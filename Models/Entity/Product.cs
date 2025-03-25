@@ -21,6 +21,5 @@ public partial class Product
 
     public string? Summary { get; set; }
 
-    public int? Quantity { get; set; }
 }
 

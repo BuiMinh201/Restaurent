@@ -14,6 +14,7 @@ namespace Restaurent.Controllers
         {
             if (Id == null) return RedirectToAction("Index");
             var productsById = _context.Product.Where(p => p.Id == Id).FirstOrDefault();
+            ViewBag.ProductTopping = _context.ProductTopping.ToList();
             return View(productsById);
         }
     }
