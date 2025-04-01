@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Restaurent.Models.Entity;
 
 namespace MyCore.Models.Entity;
 
@@ -22,6 +23,7 @@ public partial class RestaurentContext : DbContext
     public virtual DbSet<ProductTopping> ProductTopping { get; set; }
 
     public virtual DbSet<ProductType> ProductType { get; set; }
+    public virtual DbSet<Ratings> Ratings { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -70,6 +72,12 @@ public partial class RestaurentContext : DbContext
             entity.Property(e => e.Name).HasMaxLength(255);
         });
 
+        modelBuilder.Entity<Ratings>(entity =>
+        {
+            entity.Property(e => e.CreateDate).HasColumnType("datetime");
+            entity.Property(e => e.UpdateDate).HasColumnType("datetime");
+        }
+        );
         OnModelCreatingPartial(modelBuilder);
     }
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Restaurent.Models.Entity;
+using System;
 using System.Collections.Generic;
 
 namespace MyCore.Models.Entity;
@@ -20,6 +21,8 @@ public partial class Product
     public long? ProductTypeId { get; set; }
 
     public string? Summary { get; set; }
+     
+    public Ratings Ratings { get; set; }
 
 }
 

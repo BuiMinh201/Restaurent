@@ -1,4 +1,5 @@
-﻿
+﻿@using Restaurent.Models.Entity.ViewModels
+@model ProductDetails
 <div class="page-content bg-white">
 	<!-- Banner  -->
 	<div class="dz-bnr-inr style-1 text-center bg-parallax" style="background-image:url('/images/banner/bnr1.jpg'); background-size:cover; background-position:center;">
@@ -23,7 +24,7 @@
 			<div class="row product-detail">
 				<div class="col-lg-4 col-md-5">
 					<div class="detail-media m-b30">
-						<img src="@Model.Img" alt="/">
+						<img src="@Model.Products.Img" alt="/">
 					</div>
 				</div>
 				<div class="col-lg-8 col-md-7">
@@ -36,14 +37,14 @@
 							Pure veg
 						</span>
 						<div class="dz-head">
-							<h2 class="title">@Model.Name</h2>
+							<h2 class="title">@Model.Products.Name</h2>
 							<div class="rating">
 								<i class="fa-solid fa-star"></i> <span><strong class="text-dark">4.5</strong> - 20 Reviews</span>
 							</div>
 						</div>
-						<p class="text">@Model.Content</p>
+						<p class="text">@Model.Products.Content</p>
 						<ul class="detail-list">
-							<li>Price <span class="text-primary m-t5">$@Model.Price</span></li>
+							<li>Price <span class="text-primary m-t5">$@Model.Products.Price</span></li>
 							<li>
 								Quantity
 								<div class="btn-quantity style-1 m-t5">
@@ -220,7 +221,7 @@
 								<form class="comment-form" id="commentform" method="post">
 									<p class="comment-form-author">
 										<label for="author">Name <span class="required">*</span></label>
-										<input type="text" name="dzName" placeholder="Author" id="author">
+										<input type="text" name="dzName" placeholder="Name" id="author">
 									</p>
 									<p class="comment-form-email">
 										<label for="email">Email <span class="required">*</span></label>
